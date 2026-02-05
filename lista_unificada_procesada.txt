@@ -39241,6 +39241,7 @@
 ||t-cartoons.com^
 ||t.me^
 ||t0rre.win^
+||t1.gstatic.com^
 ||t1.imgchili.com^
 ||t1.imgchili.net^
 ||t1.stooorage.com^
@@ -39248,6 +39249,7 @@
 ||t111.bet^
 ||t13.imgchili.net^
 ||t1bet.bet^
+||t2.gstatic.com^
 ||t2.imgchili.com^
 ||t2.imgchili.net^
 ||t2.stooorage.com^
